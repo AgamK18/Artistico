@@ -4,7 +4,7 @@
 Artistico is a website developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It leverages the power of the DALL-E API to generate images from text and utilizes Cloudinary to store and share those images with the public.
 
 ##Demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Artistico)](https://www.youtube.com/watch?v=Xk_pMoodWRM)
+[![Artistico](https://img.youtube.com/vi/Xk_pMoodWRM/0.jpg)](https://www.youtube.com/watch?v=Xk_pMoodWRM)
 
 ## Features
 - Image Generation: Utilizes the DALL-E API to generate images from text input.
